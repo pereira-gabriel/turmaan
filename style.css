@@ -9,4 +9,17 @@ p{
 body{
     background-color: whitesmoke;
     font-family: Arial;
+    margin: 0;
+}
+#branco{
+background-color: white;
+size: 100px;
+}
+#vermelho{
+background-color: red;
+size: 100px;
+}
+#preto{
+background-color: black;
+size: 40px;
 }
