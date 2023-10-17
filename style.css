@@ -13,13 +13,13 @@ body{
 }
 #branco{
 background-color: white;
-size: 100px;
+width: 100px;
 }
 #vermelho{
 background-color: red;
-size: 100px;
+width: 100px;
 }
 #preto{
 background-color: black;
-size: 40px;
+width: 40px;
 }
