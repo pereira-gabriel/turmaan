@@ -25,7 +25,6 @@ height: 40px;
 }
 
 #circulo {
-    text-align: center;
     background: rgb(255, 255, 255);
     border-color: black;
     border-radius: 50%;
