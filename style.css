@@ -25,9 +25,7 @@ height: 40px;
 }
 
 #circulo {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
     background: rgb(255, 255, 255);
     border-color: black;
     border-radius: 50%;
