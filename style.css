@@ -35,4 +35,5 @@ height: 40px;
 
 #img-container {
 text-align: center;
+display: block;
 }
