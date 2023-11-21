@@ -6,6 +6,12 @@ p{
     font-size: 25px;
     text-align: justify;
     }
+ul{
+    font-size:25px;
+}
+ol{
+    font-size: 25px;
+}
 body{
     background-color: whitesmoke;
     font-family: Arial;
