@@ -1,4 +1,2 @@
-# 🐈 **Gatos** 🐈  #
-## Site sobre comportamento de **gatos** ##
-### Descrição de alguns comportamentos dos **gatos** ###
-
+# 🐈 **Um site sobre pokémon GO** 🐈  #
+## Site criado durante o curso da Alura** ##
